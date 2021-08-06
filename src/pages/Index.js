@@ -25,7 +25,7 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Download Resume  <a href="https://www.dropbox.com/s/e3g29r5zomcr55o/Ayush-Resume.pdf?dl=1">here</a>.</p>
+      <p> Download Resume  <a href="https://www.dropbox.com/s/g3hsr3210ic13os/Ayush_.Resume.pdf?dl=1">here</a>.</p>
     </article>
   </Main>
 );

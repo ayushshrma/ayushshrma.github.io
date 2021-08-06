@@ -9,9 +9,7 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'hi',
-  'Or if there is any Opportunities',
-  'thanks',
+  ' ',
 ];
 
 const useInterval = (callback, delay) => {
