@@ -7,8 +7,8 @@ const degrees = [
   },
   {
     school: 'Pusa Institute Of Technology , New Delhi',
-    degree: 'Engineering Diploma. Electronics and Communication Engineering. Percentage:75',
-    link: 'http://tte.delhigovt.nic.in/wps/wcm/connect/doit_tt/Training+and+Technical+Education/Home/Contact+Us/Directory/Government+or+Government+Aided+Diploma+Level+Institutions',
+    degree: 'Engineering Diploma. Electronics and Communication Engineering. CGPA:7.9/10',
+    link: 'http://pitpusa.delhi.gov.in',
     year: '2016-2019',
   },
 ];
