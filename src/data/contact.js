@@ -31,7 +31,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'https://www.dropbox.com/s/g3hsr3210ic13os/Ayush_.Resume.pdf?dl=1',
+    link: 'https://www.dropbox.com/s/vonhd1w9ujp2ntx/Ayush_Resume.pdf?dl=1',
     label: 'Resume',
     icon: faFile,
   },
