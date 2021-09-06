@@ -14,7 +14,7 @@ const data = [
   {
     title: 'Chatter',
     subtitle: 'Chatting Engine',
-    link: 'https://github.com/ayushshrma/chatter',
+    link: '',
     image: '/images/projects/chatter.jpg',
     date: '2020-09-20',
     desc:
@@ -26,7 +26,7 @@ const data = [
   {
     title: 'Ecommerce Website',
     subtitle: 'Ecommerce Website using Reactjs and nodejs.',
-    link: 'http://github.com/ayushshrma/Ecommerce',
+    link: '',
     image: '/images/projects/ecommerce.jpg',
     date: '2021-06-28',
     desc:
