@@ -1,5 +1,5 @@
 const positions = [
-  {
+  {/*
     company: 'Credence Analytics',
     position: 'SDE Backend Intern',
     link: 'https://www.credenceanalytics.com/',
@@ -12,7 +12,7 @@ const positions = [
       'Tech Stack : Oracle, Nodejs, javascript.',
     ],
   },
-
+*/
 ];
 
 export default positions;
