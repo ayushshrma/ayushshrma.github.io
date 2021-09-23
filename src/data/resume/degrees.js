@@ -1,7 +1,7 @@
 const degrees = [
   {
     school: 'Dr Akhilesh Das Gupta Institute of Technology (GGSIPU)',
-    degree: 'B.Tech. Computer Science & Engineering. CGPA:7.9/10(till 5 semester)',
+    degree: 'B.Tech. Computer Science & Engineering. CGPA:8.1/10',
     link: 'https://adgitmdelhi.ac.in/',
     year: '2019-2022',
   },
