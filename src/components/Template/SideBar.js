@@ -13,7 +13,7 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Ayush Sharma</h2>
-        <p><a href="mailto:sharmaayush20999@gmail.com">sharmaayush20999@gmail.com</a></p>
+        <p><a href="mailto:ayushsharmacse@gmail.com">ayushsharmacse@gmail.com</a></p>
       </header>
     </section>
 

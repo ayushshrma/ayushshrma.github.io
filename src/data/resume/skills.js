@@ -5,74 +5,74 @@ const skills = [
   {
     title: 'Javascript',
     competency: 3.5,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    category: ['Languages', 'Javascript', , 'Front-End'],
   },
   {
     title: 'Node.JS',
     competency: 3.5,
-    category: ['Web Development', 'Javascript'],
+    category: ['Javascript','Back-End'],
   },
   {
     title: 'React',
     competency: 3.5,
-    category: ['Web Development', 'Javascript'],
+    category: ['Javascript', 'Front-End'],
   },
-  /* {
-    title: 'Bash',
-    competency: 2,
-    category: ['Tools', 'Languages'],
-  }, */
+   {
+    title: 'Spring Framework',
+    competency: 3.5,
+    category: ['JAVA','Back-End'],
+  }, 
   {
     title: 'Amazon Web Services',
     competency: 3,
-    category: ['Web Development', 'Tools'],
+    category: ['Tools'],
   },
-  /* {
-    title: 'Heroku',
-    competency: 2,
-    category: ['Web Development', 'Tools'],
-  }, */
+   {
+    title: 'Spring Boot',
+    competency: 3.5,
+    category: ['JAVA','Back-End'],
+  }, 
   {
     title: 'MongoDB',
     competency: 3,
-    category: ['Web Development', 'Databases'],
+    category: ['Databases'],
   },
   {
     title: 'MySql',
     competency: 3,
-    category: ['Web Development', 'Databases'],
+    category: ['Databases'],
   },
   {
-    title: 'Firebase',
-    competency: 3,
-    category: ['Web Development', 'Databases'],
+    title: 'Spring Hibernate',
+    competency: 3.5,
+    category: ['Databases','JAVA','Back-End'],
   },
-  /* {
-    title: 'PostgreSQL/SQLite3/SQL',
-    competency: 4,
-    category: ['Web Development', 'Databases', 'Languages'],
+   {
+    title: 'Spring Security',
+    competency: 3.5,
+    category: ['JAVA','Back-End'],
+  },
+ {
+    title: 'Spring MVC',
+    competency: 3.5,
+    category: ['JAVA','Back-End'],
   },
   {
-    title: 'Redis',
-    competency: 3,
-    category: ['Web Development', 'Databases'],
+    title: 'Microservices',
+    competency: 3.5,
+    category: ['Back-End'],
   },
-  {
-    title: 'Data Mining',
-    competency: 3,
-    category: ['Data Science'],
-  }, */
   {
     title: 'Express.JS',
     competency: 3.5,
-    category: ['Web Development', 'Javascript'],
+    category: ['Javascript','Back-End'],
   },
-  /* {
-    title: 'D3',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
+ {
+    title: 'RabbitMQ',
+    competency: 3,
+    category: ['Back-End'],
   },
-  {
+ /* {
     title: 'Flask',
     competency: 2,
     category: ['Web Development', 'Python'],
@@ -80,16 +80,6 @@ const skills = [
   {
     title: 'Git',
     competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'GitHub',
-    competency: 4,
-    category: ['Tools'],
-  },
-  {
-    title: 'Linux',
-    competency: 4,
     category: ['Tools'],
   },
   /* {
@@ -130,7 +120,7 @@ const skills = [
   {
     title: 'HTML + SASS/SCSS/CSS',
     competency: 4,
-    category: ['Web Development', 'Languages'],
+    category: ['Front-End'],
   },
   {
     title: 'JAVA',

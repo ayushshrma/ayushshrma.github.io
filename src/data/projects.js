@@ -12,25 +12,13 @@ const data = [
       + 'using passing state, and requests with the Yelp API ',
   },
   {
-    title: 'Chatter',
-    subtitle: 'Chatting Engine',
-    link: '',
-    image: '/images/projects/chatter.jpg',
-    date: '2020-09-20',
-    desc:
-      'A Simple Chat Application using React JS, a JavaScript library to make awesome UI by Facebook, Node JS, Express JS and MongoDB. '
-      + 'This application uses React JS component oriented UI creation paradigm. '
-      + ' All components are written in JSX and ES6 style and are combined to get a single build for production purpose using Webpack 5.'
-      + 'This is a responsive web application for viewing in both Mobile and Desktop',
-  },
-  {
     title: 'Ecommerce Website',
     subtitle: 'Ecommerce Website using Reactjs and nodejs.',
-    link: '',
-    image: '/images/projects/ecommerce.jpg',
-    date: '2021-06-28',
+    link: 'https://github.com/ayushshrma/ecommerce-Backend',
+    image: '/images/projects/ecomm.jpg',
+    date: '2022-10-28',
     desc:
-      ' Build Ecommerce website using React js & nodejs with Mongodb as database ',
+      ' Build Ecommerce website Backend  using Spring Boot, Spring Security , Spring Hibernate , Spring MVC with MYSQL as database ',
   },
 ];
 

@@ -9,8 +9,7 @@ I also  love to explore new technologies and leverage them to solve real-life pr
 
 # Currently
 
- Currently I am  looking  for Internships and full-time Opportunities in a variety of roles,in the field of Computer engineering including software development engineer (SDE), Full Stack Developer , Backend Developer etc. to  develop advanced projects with efficiency and quality
-
+ Currently I am working as a Software Engineer - Java in TO THE NEW .
 
 # I like
 

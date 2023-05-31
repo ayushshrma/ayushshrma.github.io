@@ -41,7 +41,7 @@ const data = [
     icon: faXing,
   },
   {
-    link: 'mailto:sharmaayush20999@gmail.com',
+    link: 'mailto:ayushsharmacse@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },
